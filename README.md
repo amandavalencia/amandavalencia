@@ -6,11 +6,6 @@ Hi, I’m Amanda! I’m a passionate developer with a knack for creating efficie
 
 🌱 I’m currently learning more about React, TypeScript, and Supabase.
 
-🤝 I’m interested in collaborating on web development projects and creative applications.
-
-💬 Ask me about frontend development, TypeScript, or my journey as a developer.
-
-⚡ Fun fact: I love solving puzzles and experimenting with new technologies.
 
 ## 🛠️ Tools I Use
 
@@ -22,4 +17,5 @@ Hi, I’m Amanda! I’m a passionate developer with a knack for creating efficie
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg” alt=“github” width=“30" height=“30”/>
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg” alt=“visualstudio” width=“30" height=“30”/>
 </p>
+
 
